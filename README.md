@@ -35,4 +35,4 @@
 
 [https://github.com/JungYongHui/Data-Analyst-Study.git](https://github.com/JungYongHui/Data-Analyst-Study.git)
 
-##  용희 0521 수정
+##  동현 0521 수정
